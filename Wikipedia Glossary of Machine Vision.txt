@@ -1,3 +1,17 @@
+Introduction (Wikipedia Glossary of Machine Vision)|"
+<p>This deck has taken definitions outlined in <a href=""https://en.wikipedia.org/wiki/Glossary_of_machine_vision"">Wikipedia's Glossary of machine vision</a> and put them into a form which can be easily learnt/revised using <a href=""https://apps.ankiweb.net/"">Anki</a> a cross platform app specifically designed for long term knowledge retention.</p>
+<h2>Notes</h2>
+<p>Please note the modifications which have been made &amp; where you can find updates.</p>
+<ol align=""left"">
+<li>The front of every card has ""(Wikipedia Glossary of Machine Vision)"" appended to the end so that if you have any other words in your collection, the Wikipedia definition will still be added when importing it.</li>
+<li>Any updates or corrections to the deck will be available at <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Machine-Vision-Flashcards""></a><a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Machine-Vision-Flashcards"">https://github.com/darigovresearch/Wikipedia-Glossary-of-Machine-Vision-Flashcards</a> so do return periodically to check if you have the latest version.</li>
+</ol>
+<p>Feel free to share the deck and give the repository a star so more people are likely to see this work and can get the most out of it.</p>
+<h2>License</h2>
+<p>Unless otherwise specified, everything in this deck is covered by the following licence:</p>
+<p>This deck uses material from the Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_machine_vision"">""Glossary of machine vision""</a>, which is released under the <a href=""https://creativecommons.org/licenses/by-sa/3.0/"">Creative Commons Attribution-Share-Alike License 3.0</a>.</p>
+<p>To see this work in full go to <a href=""https://en.wikipedia.org/wiki/Glossary_of_machine_vision"">https://en.wikipedia.org/wiki/Glossary_of_machine_vision</a></p>
+"
 <b><a href=""https://en.wikipedia.org/wiki/FireWire"" class=""mw-redirect"" title=""FireWire"">1394</a></b> (Wikipedia Glossary of Machine Vision)|"FireWire is Apple Inc.'s brand name for the IEEE 1394 interface. It is also known as i.Link (Sony's name) or IEEE 1394 (although the 1394 standard also defines a backplane interface). It is a personal computer (and digital audio/digital video) serial bus interface standard, offering high-speed communications and isochronous real-time data services."
 <b>1D</b> (Wikipedia Glossary of Machine Vision)|"One-dimensional."
 <b><a href=""https://en.wikipedia.org/wiki/2D_computer_graphics"" title=""2D computer graphics"">2D computer graphics</a></b> (Wikipedia Glossary of Machine Vision)|"The computer-based generation of digital images—mostly from two-dimensional models (such as 2D geometric models, text, and digital images) and by techniques specific to them."
